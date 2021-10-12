@@ -1,0 +1,26 @@
+h1  {
+    font-family: cursive;
+    font-weight: 700;
+    background-color: black;
+    color: azure;
+    text-indent: 20px;
+}
+
+h2  {
+    font-family: monospace;
+    font-style: italic;
+    font-weight: lighter;
+    text-align: center;
+    background-color: blueviolet;
+    color: whitesmoke;
+}
+
+h3  {
+    font-family: cursive;
+    font-weight: lighter;
+    text-align: right;
+    text-decoration: underline;
+    background-color: lightskyblue;
+    color: darkslategrey;
+    padding-right: 20px;
+}
